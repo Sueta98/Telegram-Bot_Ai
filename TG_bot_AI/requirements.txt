@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.9.0
+python-dotenv==0.21.1
+aiogram~=3.17.0
+requests~=2.32.3
+g4f~=0.4.1.2
